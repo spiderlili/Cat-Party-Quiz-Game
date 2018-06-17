@@ -1,3 +1,3 @@
 # Cat-Party-Quiz-Game
 
-Loading quiz questions via JSON
+To do: Loading quiz questions via JSON
